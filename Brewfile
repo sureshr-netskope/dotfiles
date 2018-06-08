@@ -7,8 +7,8 @@ tap 'homebrew/bundle'
 
 # Install Binaries
 ##brew 'awscli'
-##brew 'bash' # Bash 4
-##brew 'coreutils' # Those that come with macOS are outdated
+brew 'bash' # Bash 4
+brew 'coreutils' # Those that come with macOS are outdated
 brew 'git'
 brew 'grep'
 brew 'mackup'
