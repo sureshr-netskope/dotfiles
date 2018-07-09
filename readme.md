@@ -10,4 +10,5 @@ This is a clone of https://github.com/driesvints/dotfiles simplified quite a bit
 1. cd $HOME/Projects/dotfiles
 1. git clone git://github.com/suresh-ramaswamy/dotfiles
 1. ln -s $HOME/Projects/dotfiles $HOME/.dotfiles
+1. cd $HOME/.dotfiles
 1. Run $HOME/.dotfiles/install.sh
